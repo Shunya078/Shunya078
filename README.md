@@ -9,7 +9,7 @@
 <a href="http://qiita.com/Shunya078">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Shunya078/posts.svg" />
 </a>
-  </a>
+  <a>
     <img height="20" src="https://qiita-badge.apiapi.app/s/Shunya078/contributions.svg" />
   </a>
 
