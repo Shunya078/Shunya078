@@ -1,7 +1,8 @@
 # Hello Shunya's GitHub Pages 👋
 
+<p align="left">
 <a href="http://twitter.com/_Shunya078">
-<img height="20" src="https://img.shields.io/twitter/follow/_Shun8931?label=Twitter&logo=twitter&style=flat" />
+<img height="20" src="https://img.shields.io/twitter/follow/_Shunya078?label=Twitter&logo=twitter&style=flat" />
 </a>
 <a href="https://github.com/Shunya078">
 <img height="20" src="https://img.shields.io/github/followers/Shunya078?label=follow&logo=github&style=flat" />
@@ -12,6 +13,7 @@
 <a>
 <img height="20" src="https://qiita-badge.apiapi.app/s/Shunya078/contributions.svg" />
 </a>
+</p>
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Shunya078&column=6&theme=onedark&no-frame=true"/>
 
