@@ -15,7 +15,7 @@
 </a>
 </p>
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=Shunya078&column=6&theme=onedark&no-frame=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=Shunya078&row=1&column=7&theme=onedark&no-frame=true"/>
 
 ---
 
